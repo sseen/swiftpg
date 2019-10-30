@@ -1,3 +1,5 @@
+//: [Previous](@previous)
+
 import UIKit
 
 var str = "Hello, playground"
@@ -96,3 +98,7 @@ print(mappedNumbers)
 
 let sortedNumbers = numbers.sorted { $0 > $1 }
 print(sortedNumbers)
+
+
+
+//: [Next](@next)
