@@ -4,5 +4,6 @@
         <page name='index'/>
         <page name='introduction'/>
         <page name='basic content'/>
+        <page name='basic-operators'/>
     </pages>
 </playground>
