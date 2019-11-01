@@ -71,7 +71,7 @@ if hasDoorKey || knowsOverridePassword {
     print("ACCESS DENIED")
 }
 
-//: 总结
+//: 总结  
 //: 了解了区间运算符，单侧，闭区间，半开
 
 //: [Next](@next)
