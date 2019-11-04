@@ -6,5 +6,7 @@
         <page name='basic content'/>
         <page name='basic-operators'/>
         <page name='strings-and-characters'/>
+        <page name='control-flow'/>
+        <page name='collection-types'/>
     </pages>
 </playground>
