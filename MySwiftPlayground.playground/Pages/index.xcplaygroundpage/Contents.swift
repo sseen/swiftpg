@@ -6,3 +6,4 @@
 //: #### [控制流 control flow](control-flow)
 //: #### [集合类型 collection types](collection-types)
 //: #### [函数 functions](functions)
+//: #### [闭包 closures](closures)

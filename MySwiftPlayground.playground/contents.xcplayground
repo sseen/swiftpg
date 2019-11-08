@@ -9,5 +9,6 @@
         <page name='control-flow'/>
         <page name='collection-types'/>
         <page name='functions'/>
+        <page name='closures'/>
     </pages>
 </playground>
