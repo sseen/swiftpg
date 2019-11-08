@@ -8,5 +8,6 @@
         <page name='strings-and-characters'/>
         <page name='control-flow'/>
         <page name='collection-types'/>
+        <page name='functions'/>
     </pages>
 </playground>
