@@ -163,7 +163,7 @@ case let (x, y):
     print("(\(x), \(y)) is just some arbitrary point")
 }
 
-someCharacter: Character = "e"
+someCharacter = "e"
 switch someCharacter {
 case "a", "e", "i", "o", "u":
     print("\(someCharacter) is a vowel")
