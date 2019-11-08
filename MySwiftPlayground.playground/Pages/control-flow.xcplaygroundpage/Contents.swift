@@ -91,7 +91,7 @@ if temperatureInFahrenheit <= 32 {
 }
 
 // switch 隐式贯穿
-let someCharacter: Character = "z"
+var someCharacter: Character = "z"
 switch someCharacter {
 case "a":
     print("The first letter of the alphabet")
