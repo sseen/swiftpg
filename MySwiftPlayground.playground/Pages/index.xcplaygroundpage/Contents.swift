@@ -7,3 +7,7 @@
 //: #### [集合类型 collection types](collection-types)
 //: #### [函数 functions](functions)
 //: #### [闭包 closures](closures)
+//: #### [枚举 enumerations](enumerations)
+//: #### [类和结构体 classes and structures](classes-and-structures)
+//: #### [属性 properties](properties)
+

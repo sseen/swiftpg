@@ -10,5 +10,8 @@
         <page name='collection-types'/>
         <page name='functions'/>
         <page name='closures'/>
+        <page name='enumerations'/>
+        <page name='classes-and-structures'/>
+        <page name='properties'/>
     </pages>
 </playground>
