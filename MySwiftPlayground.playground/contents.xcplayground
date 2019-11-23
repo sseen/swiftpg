@@ -13,5 +13,7 @@
         <page name='enumerations'/>
         <page name='classes-and-structures'/>
         <page name='properties'/>
+        <page name='methods'/>
+        <page name='subscripts'/>
     </pages>
 </playground>

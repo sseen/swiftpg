@@ -10,4 +10,5 @@
 //: #### [枚举 enumerations](enumerations)
 //: #### [类和结构体 classes and structures](classes-and-structures)
 //: #### [属性 properties](properties)
-
+//: #### [方法 methods](methods)
+//: #### [下标 subscripts](subscripts)
