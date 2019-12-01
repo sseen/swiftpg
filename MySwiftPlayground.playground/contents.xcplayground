@@ -15,5 +15,6 @@
         <page name='properties'/>
         <page name='methods'/>
         <page name='subscripts'/>
+        <page name='inheritance'/>
     </pages>
 </playground>
