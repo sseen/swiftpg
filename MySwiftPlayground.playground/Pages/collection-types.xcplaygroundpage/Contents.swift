@@ -4,6 +4,23 @@
 import Foundation
 
 //: 数组
+//: - firstIndex
+let students = ["Kofi", "Abena", "Peter", "Kweku", "Akosua"]
+if let i = students.firstIndex(where: { $0.hasPrefix("A") }) {
+    print("\(students[i]) starts with 'A'!")
+}
+// 找出第一个匹配的，返回index
+if let i = students.first(where: { (one) -> Bool in
+    print(one)
+    return one.hasPrefix("A")
+}) {
+    print(i)
+}
+//: - index offsetby
+let s = "Swift"
+let i = s.index(s.startIndex, offsetBy: 4)
+print(s[i])
+
 var someInts = [Int]()
 print("someInts is of type [Int] with \(someInts.count) items.")
 
